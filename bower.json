@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "pages_theme_angular_ui_util",
+  "version": "0.0.0",
+  "authors": [
+    "Christian <christian.parrita@gmail.com>"
+  ],
+  "main": "ui-utils.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
